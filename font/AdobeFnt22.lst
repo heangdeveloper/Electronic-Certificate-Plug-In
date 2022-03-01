@@ -1,0 +1,297 @@
+%!Adobe-FontList 1.22
+%Locale:0x809
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\GmarketSansBold.woff
+FileModTime:1624922799
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\GmarketSansBold.woff2
+FileModTime:1624922792
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\GmarketSansLight.woff
+FileModTime:1624922820
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\GmarketSansLight.woff2
+FileModTime:1624922816
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\GmarketSansMedium.woff
+FileModTime:1624922811
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\GmarketSansMedium.woff2
+FileModTime:1624922804
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Black.eot
+FileModTime:1532491636
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Black
+FamilyName:Noto Sans KR
+StyleName:Black
+FullName:Noto Sans KR Black
+MenuName:Noto Sans KR Black
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Black
+FullNameNative:Noto Sans KR Black
+WritingScript:Korean
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Black.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:403792
+FileModTime:1532491636
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans KR Black
+NameArray:0,Win,1,Noto Sans KR Black
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Black.woff
+FileModTime:1532491636
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Bold.eot
+FileModTime:1532491636
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Bold
+FamilyName:Noto Sans KR
+StyleName:Bold
+FullName:Noto Sans KR Bold
+MenuName:Noto Sans KR Bold
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Bold
+FullNameNative:Noto Sans KR Bold
+WritingScript:Korean
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Bold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:396476
+FileModTime:1532491636
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans KR Bold
+NameArray:0,Win,1,Noto Sans KR Bold
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Bold.woff
+FileModTime:1532491636
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Light.eot
+FileModTime:1532491636
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Light
+FamilyName:Noto Sans KR
+StyleName:Light
+FullName:Noto Sans KR Light
+MenuName:Noto Sans KR Light
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Light
+FullNameNative:Noto Sans KR Light
+WritingScript:Korean
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Light.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:397004
+FileModTime:1532491636
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans KR Light
+NameArray:0,Win,1,Noto Sans KR Light
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Light.woff
+FileModTime:1532491636
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Medium.eot
+FileModTime:1532491636
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Medium
+FamilyName:Noto Sans KR
+StyleName:Medium
+FullName:Noto Sans KR Medium
+MenuName:Noto Sans KR Medium
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Medium
+FullNameNative:Noto Sans KR Medium
+WritingScript:Korean
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Medium.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:391268
+FileModTime:1532491636
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans KR Medium
+NameArray:0,Win,1,Noto Sans KR Medium
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Medium.woff
+FileModTime:1532491636
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Regular.eot
+FileModTime:1532491636
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Regular
+FamilyName:Noto Sans KR
+StyleName:Regular
+FullName:Noto Sans KR Regular
+MenuName:Noto Sans KR Regular
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Regular
+FullNameNative:Noto Sans KR Regular
+WritingScript:Korean
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:392940
+FileModTime:1532491636
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans KR Regular
+NameArray:0,Win,1,Noto Sans KR Regular
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Regular.woff
+FileModTime:1532491637
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Thin.eot
+FileModTime:1532491637
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Thin
+FamilyName:Noto Sans KR
+StyleName:Thin
+FullName:Noto Sans KR Thin
+MenuName:Noto Sans KR Thin
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Thin
+FullNameNative:Noto Sans KR Thin
+WritingScript:Korean
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Thin.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:399528
+FileModTime:1532491637
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans KR Thin
+NameArray:0,Win,1,Noto Sans KR Thin
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\All Project\식권제로페이 - 모바일 랜딩페이지\Font\NotoSansKR-Thin.woff
+FileModTime:1532491637
+%EndFont
+
